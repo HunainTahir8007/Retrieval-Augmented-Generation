@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-core
+youtube-transcript-api
+yt-dlp
+openai-whisper
+chromadb
+sentence-transformers
+ 
