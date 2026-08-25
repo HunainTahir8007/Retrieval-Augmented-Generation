@@ -1,1 +1,2 @@
 Traditional RAG
+Self RAG
