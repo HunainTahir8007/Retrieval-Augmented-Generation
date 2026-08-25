@@ -1,1 +1,1 @@
- RAG
+Traditional RAG
