@@ -1,2 +1,2 @@
-Traditional RAG
-Self RAG
+Traditional RAG , 
+Self RAG and Corrective  RAG
