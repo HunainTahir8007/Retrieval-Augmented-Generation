@@ -1,1 +1,1 @@
-Tradational RAG , Self RAG and self Corrective RAG
+Tradational RAG , Self RAG and Corrective RAG
